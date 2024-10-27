@@ -31,8 +31,8 @@ Este repositório contém minhas soluções para os exercícios do curso [Java P
 
 ### Parte 3: Listas 🚧
 1. ✅ Descobrindo Erros
-2. 🚧 Listas (Em andamento)
-3. ⏳ Arrays
+2. ✅ Listas
+3. 🚧 Arrays (Em andamento)
 4. ⏳ Usando Strings
 5. ⏳ Resumo
 
