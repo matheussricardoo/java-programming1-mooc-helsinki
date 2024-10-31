@@ -37,9 +37,9 @@ Este repositório contém minhas soluções para os exercícios do curso [Java P
 5. Resumo
 
 ### Parte 4: OOP 🚧
-1. 🚧 Introdução à programação orientada a objetos (Em andamento)
-2. ⏳ Objetos em uma lista
-3. ⏳ Arquivos e leitura de dados
+1. ✅ Introdução à programação orientada a objetos 
+2. ✅ Objetos em uma lista
+3. 🚧 Arquivos e leitura de dados (Em andamento)
 4. ⏳ Resumo
 
 ## Como Navegar
