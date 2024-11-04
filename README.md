@@ -43,10 +43,10 @@ Este repositório contém minhas soluções para os exercícios do curso [Java P
 4.  Resumo
 
 ### Parte 5: Continuação da Programação Orientada a Objetos 🚧 
-1. Aprendizado sobre programação orientada a objetos 🚧 Em Progresso
-2. Eliminar código repetitivo (sobrecarga de métodos e construtores) ⏳ Futuro
-3. Variáveis primitivas e de referência ⏳ Futuro
-4. Objetos e referências ⏳ Futuro
+1. Aprendizado sobre programação orientada a objetos ✅ 
+2. Eliminar código repetitivo (sobrecarga de métodos e construtores) ✅
+3. Variáveis primitivas e de referência ✅
+4. Objetos e referências 🚧 Em andamento
 5. Conclusão ⏳ Futuro
 
 ## Como Navegar
