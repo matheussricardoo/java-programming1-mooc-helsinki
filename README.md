@@ -7,8 +7,8 @@ Este repositório contém minhas soluções para os exercícios do curso [Java P
 2. [Parte 2: Repetição](./Part_2) ✅ Concluído
 3. [Parte 3: Listas](./Part_3) ✅ Concluído
 4. [Parte 4: POO](./Part_4) ✅ Concluído
-5. [Parte 5: Objetos](./Part_5) 🚧 Em Progresso
-6. [Parte 6: Objetos II](./Part_6) ⏳ Futuro
+5. [Parte 5: Objetos](./Part_5) ✅ Concluído
+6. [Parte 6: Objetos II](./Part_6) 🚧 Em andamento
 7. [Parte 7: Paradigmas](./Part_7) ⏳ Futuro
 
 ## Progresso
@@ -42,12 +42,19 @@ Este repositório contém minhas soluções para os exercícios do curso [Java P
 3.  Arquivos e leitura de dados (Em andamento)
 4.  Resumo
 
-### Parte 5: Continuação da Programação Orientada a Objetos 🚧 
-1. Aprendizado sobre programação orientada a objetos ✅ 
-2. Eliminar código repetitivo (sobrecarga de métodos e construtores) ✅
-3. Variáveis primitivas e de referência ✅
-4. Objetos e referências 🚧 Em andamento
-5. Conclusão ⏳ Futuro
+### Parte 5: Continuação da Programação Orientada a Objetos ✅ 
+1. Aprendizado sobre programação orientada a objetos  
+2. Eliminar código repetitivo (sobrecarga de métodos e construtores) 
+3. Variáveis primitivas e de referência 
+4. Objetos e referências 
+5. Conclusão 
+
+### Parte 6: Objetos compostos e separação entre interface e lógica 🚧 
+1. Objetos em listas e listas como parte de objetos 🚧 Em andamento
+2. Separação entre a interface de usuário e a lógica do programa ⏳ Futuro
+3. Introdução a testes unitários e de integração ⏳ Futuro
+4. Desenvolvimento de programas mais complexos e organizados ⏳ Futuro
+
 
 ## Como Navegar
 Cada diretório contém soluções para os exercícios da parte correspondente do curso. Os arquivos são nomeados de acordo com o número do exercício.
