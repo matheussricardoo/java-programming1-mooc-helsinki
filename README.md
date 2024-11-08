@@ -49,12 +49,17 @@ Este repositório contém minhas soluções para os exercícios do curso [Java P
 4. Objetos e referências 
 5. Conclusão 
 
-### Parte 6: Objetos compostos e separação entre interface e lógica 🚧 
-1. Objetos em listas e listas como parte de objetos 🚧 Em andamento
-2. Separação entre a interface de usuário e a lógica do programa ⏳ Futuro
-3. Introdução a testes unitários e de integração ⏳ Futuro
-4. Desenvolvimento de programas mais complexos e organizados ⏳ Futuro
+### Parte 6: Objetos compostos e separação entre interface e lógica ✅ 
+1. Objetos em listas e listas como parte de objetos 
+2. Separação entre a interface de usuário e a lógica do programa 
+3. Introdução a testes unitários e de integração 
+4. Desenvolvimento de programas mais complexos e organizados
 
+### Parte 7: Paradigmas, Algoritmos e Conclusão do Curso Básico 🚧
+1. Paradigmas de programação 🚧 Em Progresso
+2. Algoritmos ⏳ Futuro
+3. Exercícios de programação maiores ⏳ Futuro
+4. Conclusão ⏳ Futuro
 
 ## Como Navegar
 Cada diretório contém soluções para os exercícios da parte correspondente do curso. Os arquivos são nomeados de acordo com o número do exercício.
