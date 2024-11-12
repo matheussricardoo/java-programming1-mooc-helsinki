@@ -56,8 +56,8 @@ Este repositório contém minhas soluções para os exercícios do curso [Java P
 4. Desenvolvimento de programas mais complexos e organizados
 
 ### Parte 7: Paradigmas, Algoritmos e Conclusão do Curso Básico 🚧
-1. Paradigmas de programação 🚧 Em Progresso
-2. Algoritmos ⏳ Futuro
+1. Paradigmas de programação ✅ 
+2. Algoritmos 🚧 Em Progresso
 3. Exercícios de programação maiores ⏳ Futuro
 4. Conclusão ⏳ Futuro
 
