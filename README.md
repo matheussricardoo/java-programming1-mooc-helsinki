@@ -57,8 +57,8 @@ Este repositório contém minhas soluções para os exercícios do curso [Java P
 
 ### Parte 7: Paradigmas, Algoritmos e Conclusão do Curso Básico 🚧
 1. Paradigmas de programação ✅ 
-2. Algoritmos 🚧 Em Progresso
-3. Exercícios de programação maiores ⏳ Futuro
+2. Algoritmos ✅ 
+3. Exercícios de programação maiores 🚧 Em Progresso
 4. Conclusão ⏳ Futuro
 
 ## Como Navegar
